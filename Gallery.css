@@ -55,10 +55,10 @@ img{
 .gallery{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-    grid-gap: 30px;
+    grid-gap: 20px;
 }
 .gallery img{
-    width: 103%;
+    width: 100%;
 }
 .footer {
   position: fixed;
